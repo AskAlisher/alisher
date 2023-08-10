@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alisher/static/css/main.073c9b0a.css",
+    "main.js": "/alisher/static/js/main.91151ec8.js",
+    "static/js/787.bcb1f495.chunk.js": "/alisher/static/js/787.bcb1f495.chunk.js",
+    "static/media/logo.svg": "/alisher/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alisher/index.html",
+    "main.073c9b0a.css.map": "/alisher/static/css/main.073c9b0a.css.map",
+    "main.91151ec8.js.map": "/alisher/static/js/main.91151ec8.js.map",
+    "787.bcb1f495.chunk.js.map": "/alisher/static/js/787.bcb1f495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.91151ec8.js"
+  ]
+}
